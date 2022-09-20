@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- main  -->
+  <node pkg="cadcam_cleaner" type="mainNode.py" name="MainNodeWithRocketSwitch"/>
+
+</launch>
